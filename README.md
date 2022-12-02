@@ -56,7 +56,10 @@
 
 </a>
 
-### 💖 ```DONAR``` [`Aquí`](https://paypal.me/OficialGD)
+### 💖 ```DONAR``` [`Aquí`](https://paypal.me/OficialGD)         
+  
+  
+  [![Run on Repl.it](https://repl.it/badge/github/JEIRONY/privado2)](https://repl.it/github/JEIRONY/privado2)
 -----
 * 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗕𝗼𝘅𝗠𝗶𝗻𝗲 & 𝗥𝗲𝗽𝗹𝗶𝘁 & 𝗧𝗲𝗿𝗺𝘂𝘅 💛
 > ESTE REPOSITORIO DE GATABOT ES COMPATIBLE CON BOXMINE, REPLIT Y TERMUX.
