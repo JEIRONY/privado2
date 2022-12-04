@@ -64,7 +64,7 @@
 * 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗕𝗼𝘅𝗠𝗶𝗻𝗲 & 𝗥𝗲𝗽𝗹𝗶𝘁 & 𝗧𝗲𝗿𝗺𝘂𝘅 💛
 > ESTE REPOSITORIO DE GATABOT ES COMPATIBLE CON BOXMINE, REPLIT Y TERMUX.
 * 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗛𝗲𝗿𝗼𝗸𝘂 💜
-> SI QUIERE INSTAR POR HEROKU USE [`GataBotMD-Heroku`](https://github.com/GataNina-Li/GataBotMD-Heroku)
+> SI QUIERE INSTAR POR HEROKU USE [`GataBotMD-Heroku`](https://github.com/JEIRONY/privado2-Heroku)
 -----
 ### 🟣 ACTIVAR EN HEROKU 
 #### ☂️ PARA USUARIOS DE HEROKU 
