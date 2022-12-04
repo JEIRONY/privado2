@@ -7,39 +7,25 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50495086382', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['5492914469417', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
-  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 5 💖🐈', true],
-  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 6 💖🐈', true],
-  ['972529277542', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 7 💖🐈', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
-  ['5492266466080'],
-  ['573136855110'],
-  ['50689823726'],
-  ['50495086382'],
-  ['584125778026'],
-  ['584166662765'],
-  ['584163647116'],
-  ['593968585383'] 
+  ['573152139466', 'JEISON -VENTA DE INTERNET ', true],
+  ['16825029696', 'BOT-ISHUA', true], 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['16825029696'], 
   
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
+//Agrega el Idioma que quieres que tenga ISHUA
+//Add the language you want ISHUA to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de ISHUA, Ejemplo: es | en | pt...
 
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━ •ﻌ•
 
 
 global.APIs = { // API Prefix. 
@@ -105,15 +91,15 @@ global.Key360 = ['964f-0c75-7afc'] //keys ephoto360
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━ •ﻌ•
 
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'ISHUA'
+global.author = 'BOT ISHUA'
 
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━ •ﻌ•
 
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
@@ -121,40 +107,40 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.3.7'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'ISHUA'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'NO HAY NO EXISTE'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://instagram.com/jeison_be?igshid=YmMyMTA2M2Y='
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'NO HAY NO EXISTE'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/Bi656UOF5OEHznM0jxk9OB'
+global.nna = 'https://chat.whatsapp.com/DXUpHlwoPSd0n5tPPgZHNR'
 global.nnagrupo = nna //UPDATE GATABOT
 
-global.nn = 'https://chat.whatsapp.com/BszaA3NFekyH7nhm7ZLnu6'
+global.nn = 'https://chat.whatsapp.com/DXUpHlwoPSd0n5tPPgZHNR'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/HJbk835UmOM3Aelm0Sqn3o'
+global.nnn = 'https://chat.whatsapp.com/DXUpHlwoPSd0n5tPPgZHNR'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/BV4X36YQa5A0wwgZAShW8D'
+global.nnnt = 'https://chat.whatsapp.com/DXUpHlwoPSd0n5tPPgZHNR'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/JWxO7mYh8AdCa9BtRXqERT'
+global.nnntt = 'https://chat.whatsapp.com/DXUpHlwoPSd0n5tPPgZHNR'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/IcvAZ26AzhpF72mC7sN1UA'
+global.nnnttt = 'https://chat.whatsapp.com/DXUpHlwoPSd0n5tPPgZHNR'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'SOLO NEQUI PAPÁ'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/573152139466' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -188,16 +174,16 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'ISHUA : JEISON'
+global.igfg = 'ISHUA'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '573152139466'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •ﻌ•
 
 
 //━━━━━━━━━━━━━━lolkeys━━━━━━━━━
@@ -206,35 +192,35 @@ global.lolkeys = ['2e0da1f78d1721134b21816d', '902c3bc9d8c08b0dcf8f5373', '80869
 //global.lolkeysapi = lolkeys[Math.floor(lolkeys.length * Math.random())]
 global.lolkeysapi = ['85faf717d0545d14074659ad']
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •ﻌ•
 
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://i.imgur.com/IXlUwTW.jpg'
-global.img2 = 'https://i.imgur.com/EXTbyyn.jpg'
+global.img = 'https://i.imgur.com/vgdRQLw.png'
+global.img2 = 'https://i.imgur.com/vgdRQLw.png'
 
-global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' //prem
-global.img4 = 'https://i.imgur.com/i0pccuo.jpg' //prem
+global.img3 = 'https://i.imgur.com/vgdRQLw.png' //prem
+global.img4 = 'https://i.imgur.com/vgdRQLw.png' //prem
 
-global.img5 = 'https://i.imgur.com/iL1snRx.jpeg'
-global.img6 = 'https://i.imgur.com/cYFgSKv.jpeg'
-global.img7 = 'https://i.imgur.com/JqL3h2V.jpeg'
-global.img8 = 'https://i.imgur.com/PCujt1s.jpeg'
-global.img9 = 'https://i.imgur.com/xfUEdDb.jpeg'
+global.img5 = 'https://i.imgur.com/vgdRQLw.png'
+global.img6 = 'https://i.imgur.com/vgdRQLw.png'
+global.img7 = 'https://i.imgur.com/vgdRQLw.png'
+global.img8 = 'https://i.imgur.com/vgdRQLw.png'
+global.img9 = 'https://i.imgur.com/vgdRQLw.png'
 
-global.img10 = 'https://i.imgur.com/DvHoMc3.jpg'
-global.img11 = 'https://i.imgur.com/5Q1MqGD.jpg'
-global.img12 = 'https://i.imgur.com/vWnsjh8.jpg'
-global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
-global.img14 = 'https://i.imgur.com/knBDWRA.jpeg'
-global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg'
+global.img10 = 'https://i.imgur.com/vgdRQLw.png'
+global.img11 = 'https://i.imgur.com/vgdRQLw.png'
+global.img12 = 'https://i.imgur.com/vgdRQLw.png'
+global.img13 = 'https://i.imgur.com/vgdRQLw.png'
+global.img14 = 'https://i.imgur.com/vgdRQLw.png'
+global.img15 = 'https://i.imgur.com/vgdRQLw.png'
 
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, md, ig, paypal, yt]
 global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15]
 global.gataVidMenu = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4']
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •ﻌ•
 
 
 //⊱ ━━━━━.⋅ RPG ⋅.━━━━ ⊰
@@ -280,7 +266,7 @@ global.fgif = {
                               }
                              }
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •ﻌ•
 
 
 global.multiplier = 60 // Cuanto más alto, más difícil subir de nivel | The higher, The harder levelup 
